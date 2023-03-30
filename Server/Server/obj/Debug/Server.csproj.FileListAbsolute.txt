@@ -1,0 +1,17 @@
+C:\Users\Dmitriy\source\repos\Server\Server\bin\Debug\Server.exe.config
+C:\Users\Dmitriy\source\repos\Server\Server\bin\Debug\Server.exe
+C:\Users\Dmitriy\source\repos\Server\Server\bin\Debug\Server.pdb
+C:\Users\Dmitriy\source\repos\Server\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\Dmitriy\source\repos\Server\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dmitriy\source\repos\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Dmitriy\source\repos\Server\Server\obj\Debug\Server.exe
+C:\Users\Dmitriy\source\repos\Server\Server\obj\Debug\Server.pdb
+C:\Users\Dmitriy\source\repos\Server\Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dmitriy\source\repos\Server\Server\bin\Debug\NuGet.Common.dll
+C:\Users\Dmitriy\source\repos\Server\Server\bin\Debug\NuGet.Configuration.dll
+C:\Users\Dmitriy\source\repos\Server\Server\bin\Debug\NuGet.Frameworks.dll
+C:\Users\Dmitriy\source\repos\Server\Server\bin\Debug\NuGet.Packaging.dll
+C:\Users\Dmitriy\source\repos\Server\Server\bin\Debug\NuGet.Protocol.dll
+C:\Users\Dmitriy\source\repos\Server\Server\bin\Debug\NuGet.Versioning.dll
+C:\Users\Dmitriy\source\repos\Server\Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dmitriy\source\repos\Server\Server\obj\Debug\Server.csproj.CopyComplete
